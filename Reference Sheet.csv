@@ -1,5 +1,5 @@
 "Reference","Value","Footprint","Datasheet","SNAPEDA_PN","STANDARD","Qty"
-"C1, C4, C5, C9","10uF/25V","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","","","4"
+"C1, C4, C5, C9","10uF/16V","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","","","4"
 "C2, C11, C12","1uF/16V","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","3"
 "C3, C6-C8, C10","0u1F/50V","Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder","~","","","5"
 "C13","10nF/25V","Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder","~","","","1"
