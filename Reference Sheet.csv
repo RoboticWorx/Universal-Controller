@@ -26,7 +26,7 @@
 "R10","5k","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","1"
 "S1","TL3305BF260QG/BOOT","MyParts:SW_TL3305BF260QG","","TL3305BF260QG","Manufacturer Recommendations","1"
 "S2","TL3305BF260QG/RST","MyParts:SW_TL3305BF260QG","","TL3305BF260QG","Manufacturer Recommendations","1"
-"S3","Alpha","MyParts:SW_TL3305BF260QG","","TL3305BF260QG","Manufacturer Recommendations","1"
+"S3","Alpha (All these switches are the same as RST/BOOT)","MyParts:SW_TL3305BF260QG","","TL3305BF260QG","Manufacturer Recommendations","1"
 "S4","Beta","MyParts:SW_TL3305BF260QG","","TL3305BF260QG","Manufacturer Recommendations","1"
 "S5","Gamma","MyParts:SW_TL3305BF260QG","","TL3305BF260QG","Manufacturer Recommendations","1"
 "S6","Delta","MyParts:SW_TL3305BF260QG","","TL3305BF260QG","Manufacturer Recommendations","1"
