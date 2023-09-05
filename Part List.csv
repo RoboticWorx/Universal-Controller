@@ -1,0 +1,31 @@
+﻿,From Digikey,From Digikey,,,
+#,QUANTITY,PART NUMBER,MANUFACTURER PART NUMBER,DESCRIPTION, UNIT PRICE 
+1,1,296-13810-1-ND,TPS79533DCQR,IC REG LIN 3.3V 500MA SOT223-6, $2.68 
+2,1,478-KGM15AR71H103KTCT-ND,KGM15AR71H103KT,CAP CER 10000PF 50V X7R 0603, $0.01 
+3,1,296-38875-1-ND,BQ24090DGQR,IC BATT CHG LI-ION 1CELL 10MSOP, $1.26 
+4,16,EG5354CT-ND,TL3305BF260QG,SWITCHES, $0.23 
+5,2,RG16P2.0KBCT-ND,RG1608P-202-B-T5,RES SMD 2K OHM 0.1% 1/10W 0603, $0.35 
+6,1,13-RT0603BRE075KLCT-ND,RT0603BRE075KL,RES 5K OHM 0.1% 1/10W 0603, $0.28 
+7,1,754-1721-ND,WP710A10ID5V,LED RED DIFFUSED T-1 T/H, $0.33 
+8,1,13-RC0603FR-13390RLCT-ND,RC0603FR-13390RL,RES 390 OHM 1% 1/10W 0603, $0.01 
+9,1,1965-ESP32-S3-WROOM-1-N4R8CT-ND,ESP32-S3-WROOM-1-N4R8,RF TXRX MODULE BT PCB TRACE SMD, $3.35 
+10,3,1276-1019-1-ND,CL10B105KO8NNNC,CAP CER 1UF 16V X7R 0603, $0.01 
+11,2,P5.1KDACT-ND,ERA-6AEB512V,RES 5.1K OHM 0.1% 1/8W 0805, $0.14 
+12,2,13-RC0805FR-13180RLCT-ND,RC0805FR-13180RL,RES 180 OHM 1% 1/8W 0805, $0.01 
+13,4,1276-1096-1-ND,CL21A106KOQNNNE,CAP CER 10UF 16V X5R 0805, $0.03 
+14,1,RNCP0603FTD10K0CT-ND,RNCP0603FTD10K0,10kohm Resistor RES 10K OHM 1% 1/8W 0603, $0.02 
+15,1,RNCP0603FTD1K00CT-ND,RNCP0603FTD1K00,RES 1K OHM 1% 1/8W 0603, $0.10 
+,,,,,
+,From LCSC Electronics,,,,
+16,5,C513772,CS1005X7R104K500NR,50V 100nF Capacitor ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS, $0.00 
+17,1,C82544 ,1N5819HW-7-F,Diode 40V 450mV@1A 1A SOD-123 Schottky Barrier Diodes (SBD) ROHS, $0.02 
+18,3,C383211 ,LESD5D5.0CT1G,Zener Diode 5.6V 18.6V 5V Bi-Directional SOD-523 ESD Protection Devices ROHS, $0.02 
+19,1,C2765186 ,TYPE-C 16PIN 2MD(073),USB-C Connector 5A 1 Surface Mount 16P Female -25℃~+85℃ Type-C SMD USB Connectors ROHS, $0.05 
+,,,,,
+,From Amazon,,,,
+,Description:,Link:,,,
+20,3V3 20mA LEDs ,https://www.amazon.com/gp/product/B077J2WJRS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;th=1&_encoding=UTF8&tag=roboticworx0e-20&linkCode=ur2&linkId=ff127778cdcd4162ad2f0066f7197301&camp=1789&creative=9325,,,
+21,Pin headers,https://www.amazon.com/Jabinco-Breakable-Header-Connector-Arduino/dp/B0817JG3XN/ref=nav_youraccount_switchacct?crid=1RDHA91UNHNOM&amp;keywords=pin+headers&amp;qid=1693877253&amp;sprefix=pin+headers%252Caps%252C104&amp;sr=8-4&_encoding=UTF8&tag=roboticworx0e-20&linkCode=ur2&linkId=08996024385cfb3f4b1362d796506574&camp=1789&creative=9325,,,
+22,OLED Display,https://www.amazon.com/gp/product/B0BFD4X6YV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;th=1&_encoding=UTF8&tag=roboticworx0e-20&linkCode=ur2&linkId=a9efd7f1442f42fb7091a7c3113d0280&camp=1789&creative=9325,,,
+23,Joysticks modules,https://www.amazon.com/gp/product/B01N59MK0U/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;psc=1&_encoding=UTF8&tag=roboticworx0e-20&linkCode=ur2&linkId=48618485527a434513b755f417aa9b56&camp=1789&creative=9325,,,
+24,Potentiometers,https://www.amazon.com/gp/product/B0B72S4XRT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;psc=1&_encoding=UTF8&tag=roboticworx0e-20&linkCode=ur2&linkId=8726a29ae886f6975f4fab9b16428e3d&camp=1789&creative=9325,,,
