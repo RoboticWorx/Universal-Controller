@@ -186,7 +186,7 @@ void loop()
 
   displayPots();
   displayJoysticks();
-
+  displayButtons(buttons);
 
   esp_err_t result = esp_now_send(broadcastAddress, (uint8_t *) &dataSent, sizeof(dataSent)); // Send the data
   
@@ -215,7 +215,7 @@ void loop()
       digitalWrite(lowLedPin, LOW);
     previousMillis = currentMillis;
   }
-  displayButtons(buttons);
+  
   displayBattery(batteryLevel);
 
   display.display(); 
