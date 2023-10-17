@@ -6,4 +6,5 @@ Files for my Universal Remote Controller project.
 
 Be sure to go to https://www.roboticworx.io/ for detailed tutorials on a variety of projects! Thanks for reading and happy making!
 
-Regards, Worx
+Best regards, 
+Justin
